@@ -28,26 +28,6 @@ College can be a stressful environment to make friends and especially peers to s
 #### Gifs to show progress:
 <img src='https://i.imgur.com/asEy19w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-#### Update 4.17:
-<img src='https://i.imgur.com/cRrf21w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-#### Update 4.22:
-
-**Login** 
-
-<img src='login page studybuddy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-**Home Screen**
-
-<img src='home page .gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-**Friends screen**
-
-<img src='Friends show.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-**Profile Page** 
-
-<img src='profile page.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Required Must-have Stories**
 
@@ -55,10 +35,10 @@ College can be a stressful environment to make friends and especially peers to s
 - [x] User can sign up and login
 - [x] User can stay logged in across sessions
 - [x] User can log out
-- [x] User can share the location
-- [x] User can choose what class they want to share their location with
-- [x] User can see everyone who are sharing their location and see their basic profile (user can filter based on classes)
-- [x] User can see their profile
+- [ ] User can share the location
+- [ ] User can choose what class they want to share their location with
+- [ ] User can see everyone who are sharing their location and see their basic profile (user can filter based on classes)
+- [ ] User can see their profile
 
 
 **Optional Nice-to-have Stories**
